@@ -1,0 +1,51 @@
+﻿  stdafx.cpp
+  analog_agc.c
+  complex_bit_reverse.c
+  complex_fft.c
+  copy_set_operations.c
+  cross_correlation.c
+  digital_agc.c
+  division_operations.c
+  dot_product_with_scale.c
+  downsample_fast.c
+  energy.c
+  fft4g.c
+  get_scaling_square.c
+  min_max_operations.c
+  noise_suppression.c
+  noise_suppression_x.c
+  nsx_core.c
+  nsx_core_c.c
+  nsx_core_neon_offsets.c
+  ns_core.c
+E:\Desktop\WebRtcAudioTest\WebRtcMoudle\ns_core.c(880,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\WebRtcAudioTest\WebRtcMoudle\ns_core.c(883,47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\WebRtcAudioTest\WebRtcMoudle\ns_core.c(899,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\WebRtcAudioTest\WebRtcMoudle\ns_core.c(902,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\WebRtcAudioTest\WebRtcMoudle\ns_core.c(948,85): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\WebRtcAudioTest\WebRtcMoudle\ns_core.c(951,83): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\WebRtcAudioTest\WebRtcMoudle\ns_core.c(957,76): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  real_fft.c
+  正在生成代码...
+  正在编译...
+  resample.c
+  resample_48khz.c
+  resample_by_2.c
+  resample_by_2_internal.c
+  resample_by_2_mips.c
+  resample_fractional.c
+  ring_buffer.c
+  splitting_filter.c
+  spl_init.c
+  spl_sqrt.c
+  spl_sqrt_floor.c
+  vector_scaling_operations.c
+  正在生成代码...
+  WebRtcAudioTest.cpp
+E:\Desktop\WebRtcAudioTest\WebRtcAudioTest\WebRtcAudioTest.cpp(49,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Desktop\WebRtcAudioTest\WebRtcAudioTest\WebRtcAudioTest.cpp(101,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Desktop\WebRtcAudioTest\WebRtcAudioTest\WebRtcAudioTest.cpp(151,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Desktop\WebRtcAudioTest\WebRtcAudioTest\WebRtcAudioTest.cpp(203,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Desktop\WebRtcAudioTest\WebRtcAudioTest\WebRtcAudioTest.cpp(243,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Desktop\WebRtcAudioTest\WebRtcAudioTest\WebRtcAudioTest.cpp(248,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  WebRtcAudioTest.vcxproj -> E:\Desktop\WebRtcAudioTest\Debug\WebRtcAudioTest.exe
